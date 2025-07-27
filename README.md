@@ -56,45 +56,6 @@ The model achieved an accuracy of approximately 76% on the validation set. Evalu
 - Training and validation loss/accuracy curves
 - Confusion matrix heatmap for visualizing model predictions
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/vedavyas0105/FinSentDistill.git
-   ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd FinSentDistill
-   ```
-
-## Usage
-
-1. Prepare the dataset and place it in the project directory.
-2. Run the training script:
-   ```bash
-   python train.py
-   ```
-3. Evaluate the model:
-   ```bash
-   python evaluate.py
-   ```
-4. Visualize results:
-   ```bash
-   python visualize.py
-   ```
-
-## Contributing
-
-Contributions are welcome. Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- [ProsusAI/finbert](https://huggingface.co/ProsusAI/finbert) for the pre-trained teacher model
-- Kaggle for the financial news dataset
-- Hugging Face Transformers library for model implementations
 
