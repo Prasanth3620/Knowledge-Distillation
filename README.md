@@ -45,7 +45,7 @@ Synonym replacement is applied to the training data to introduce variability and
 
 ## Evaluation
 
-The model achieved an accuracy of approximately 76% on the validation set. Evaluation includes:
+The model achieved an accuracy of approximately 81% on the validation set. Evaluation includes:
 
 - Accuracy and loss plots
 - Confusion matrix
